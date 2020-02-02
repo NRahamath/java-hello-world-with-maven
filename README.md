@@ -4,6 +4,7 @@ This guide walks you through using Maven to build a simple Java project.
 ## What you’ll build
 
 
+
 You’ll create an application that provides the time of day and then build it with Maven.
 
 ## What you’ll need
@@ -24,6 +25,7 @@ First you’ll need to setup a Java project for Maven to build. To keep the focu
 + Create a root project directory named `HelloWorldMaven` and `cd HelloWorldMaven`.
 + In a project directory of your choosing, create the following subdirectory structure.
 + For example, with `mkdir -p src/main/java/hello` on *nix systems:*
++ Rahamath
 
 + on Windows you can create this directory manually.
 
